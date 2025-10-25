@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "數字DNA",
+  "name": "數字DNA — 您的光之守護",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#f9a8d4",
+  "background_color": "#fef3c7",
+  "description": "以八大能量原型映照你的靈魂藍圖"
 }
