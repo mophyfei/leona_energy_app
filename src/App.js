@@ -267,7 +267,7 @@ export default function App() {
                 <li>八守護者能量卡</li>
                 <li>顯化冥想音頻</li>
               </ul>
-              <a href="https://line.me/ti/p/~loveyogaleona131419" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center justify-center w-full rounded-xl bg-amber-500 px-4 py-3 text-white font-semibold hover:bg-amber-600 transition">
+              <a href="https://line.me/ti/p/~loveyogaleona" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center justify-center w-full rounded-xl bg-amber-500 px-4 py-3 text-white font-semibold hover:bg-amber-600 transition">
                 透過 LINE 報名
               </a>
             </div>
@@ -297,7 +297,7 @@ export default function App() {
                   <li>當期課題與顯化指引</li>
                   <li>重點摘要 PDF</li>
                 </ul>
-                <a href="https://line.me/ti/p/~loveyogaleona131419" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center justify-center w-full rounded-xl bg-emerald-700 px-4 py-3 text-white font-semibold hover:bg-emerald-800 transition">預約一對一</a>
+                <a href="https://line.me/ti/p/~loveyogaleona" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center justify-center w-full rounded-xl bg-emerald-700 px-4 py-3 text-white font-semibold hover:bg-emerald-800 transition">預約一對一</a>
               </div>
 
               <div className="rounded-3xl bg-white/85 backdrop-blur p-6 ring-1 ring-amber-100 shadow-xl">
@@ -308,7 +308,7 @@ export default function App() {
                   <li>選對順行能量 啟動共振頻率</li>
                   <li>讓人生全程順流</li>
                 </ul>
-                <a href="https://line.me/ti/p/~loveyogaleona131419" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center justify-center w-full rounded-xl bg-amber-500 px-4 py-3 text-white font-semibold hover:bg-amber-600 transition">諮詢車牌</a>
+                <a href="https://line.me/ti/p/~loveyogaleona" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center justify-center w-full rounded-xl bg-amber-500 px-4 py-3 text-white font-semibold hover:bg-amber-600 transition">諮詢車牌</a>
               </div>
 
               <div className="rounded-3xl bg-white/85 backdrop-blur p-6 ring-1 ring-rose-100 shadow-xl">
@@ -319,7 +319,7 @@ export default function App() {
                   <li>搭配八字五行能量構圖</li>
                   <li>開運能量背景設計</li>
                 </ul>
-                <a href="https://line.me/ti/p/~loveyogaleona131419" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center justify-center w-full rounded-xl bg-rose-500 px-4 py-3 text-white font-semibold hover:bg-rose-600 transition">打造大頭貼</a>
+                <a href="https://line.me/ti/p/~loveyogaleona" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center justify-center w-full rounded-xl bg-rose-500 px-4 py-3 text-white font-semibold hover:bg-rose-600 transition">打造大頭貼</a>
               </div>
             </div>
           </div>
@@ -339,7 +339,7 @@ export default function App() {
             <div className="md:col-span-2 text-sm text-slate-600">
               <p>Frequency & Soul Design｜以修行的優雅與實作的清晰,協助你看見靈魂藍圖、調頻與顯化。</p>
               <div className="mt-3 flex flex-wrap gap-2">
-                <a href="https://line.me/ti/p/~loveyogaleona131419" target="_blank" rel="noreferrer" className="rounded-full bg-emerald-600/90 text-white px-4 py-2 text-sm font-semibold hover:bg-emerald-700">加 LINE 諮詢</a>
+                <a href="https://line.me/ti/p/~loveyogaleona" target="_blank" rel="noreferrer" className="rounded-full bg-emerald-600/90 text-white px-4 py-2 text-sm font-semibold hover:bg-emerald-700">加 LINE 諮詢</a>
                 <a href="#signup" className="rounded-full bg-amber-500 text-white px-4 py-2 text-sm font-semibold hover:bg-amber-600">查看課程資訊</a>
               </div>
             </div>
@@ -347,7 +347,7 @@ export default function App() {
           <div className="mt-6 text-xs text-slate-500">
             © {new Date().getFullYear()} Leona Angel. DNA 13191419 • All rights reserved.
             <div className="mt-2">
-              LINE：https://line.me/ti/p/~loveyogaleona131419 |
+              LINE：https://line.me/ti/p/~loveyogaleona |
               IG：@love_yoga_leona31931 |
               Email：loveyogaandangel@gmail.com
             </div>
